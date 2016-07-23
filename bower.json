@@ -1,0 +1,14 @@
+{
+  "name": "gulp-starter",
+  "description": "test project",
+  "main": "index.js",
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
